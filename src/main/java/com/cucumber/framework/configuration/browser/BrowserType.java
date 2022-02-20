@@ -2,7 +2,7 @@
 package com.cucumber.framework.configuration.browser;
 /**
  * 
- * @author bsingh5
+ * @author venkata
  *
  */
 public enum BrowserType {
